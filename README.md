@@ -2,6 +2,9 @@
 
 This will create a file on your desktop while it scans your pictures 
 
+#Install
+    Just download the Zip file, decompress it and run PictureAnalyzer.exe
+
 # Steps:
     1. Choose Directory to analyse 
         Use the Arrow on your  keyboard to go into a directory and press enter/spacebar to select a 
