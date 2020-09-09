@@ -4,7 +4,8 @@ This will create a file on your desktop while it scans your pictures
 
 # Steps:
     1. Choose Directory to analyse 
-        Use the Arrow on your  keyboard to go into a directory and press enter/spacebar to select a directory and all its subdirectories
+        Use the Arrow on your  keyboard to go into a directory and press enter/spacebar to select a 
+        directory and all its subdirectories
     2.Index all Images in the selected directory(ies)
     3.Compare every indexed images (Long process depending on your number of pictures and your computer)
   
