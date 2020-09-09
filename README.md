@@ -2,7 +2,7 @@
 
 This will create a file on your desktop while it scans your pictures 
 
-#Install
+# Install
     Just download the Zip file, decompress it and run PictureAnalyzer.exe
 
 # Steps:
